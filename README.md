@@ -12,6 +12,13 @@ Analyze 1,470 IBM employee records to identify the key factors associated with e
 
 Python, Pandas, Plotly
 
+## Methodology
+
+1. Explored the dataset and validated data quality.
+2. Performed exploratory data analysis (EDA).
+3. Analyzed attrition across demographic, job-related, and satisfaction factors.
+4. Identified high-risk employee profiles and attrition patterns.
+
 ## Key Questions
 
 1. Does time spent at the company affect employee attrition?
